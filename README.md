@@ -8,7 +8,4 @@ Later, I'll learn modern techniques like CSS variables by building a penguin, an
 Finally, I'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
 ## Cat Photo App:
-http://127.0.0.1:3000/catphotoapp.html
-
-
 
