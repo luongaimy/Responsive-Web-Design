@@ -7,11 +7,15 @@ Finally, I'll learn how to make webpages that respond to different screen sizes 
 
 ### Cat Photo App: 
 
-I built a cat photo app to learn the basics of HTML and CSS: catphotoapp.html
+I built a cat photo app to learn the basics of HTML and CSS: 
+
+*catphotoapp.html* [Screen Capture](stocks/CatPhotoApp.pdf)
 
 ### Cafe Menu: 
 
-I learn CSS by designing a menu page for a cafe webpage: cafemenu
+I learn CSS by designing a menu page for a cafe webpage: 
+
+*cafemenu*
 
 
 
