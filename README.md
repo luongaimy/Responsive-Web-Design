@@ -19,13 +19,10 @@ I learn CSS by designing a menu page for a cafe webpage:
 
 *cafemenu* 
 
-[CafeMenu](stocks/Cafe Menu.pdf)
-<<<<<<< HEAD
+[CafeMenu](stocks/CafeMenu.pdf)
 
 ### CSS Color Markers:
 
-=======
->>>>>>> d9caae0ebfd6050ed7482be752d5e5eb23668243
 
 
 
