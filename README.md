@@ -5,11 +5,13 @@ Later, I'll learn modern techniques like CSS variables by building a penguin, an
 
 Finally, I'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
-### Cat Photo App: I built a cat photo app to learn the basics of HTML and CSS. 
+### Cat Photo App: 
 
-catphotoapp.html
+I built a cat photo app to learn the basics of HTML and CSS: catphotoapp.html
 
-### Cafe Menu: I learn CSS by designing a menu page for a cafe webpage
+### Cafe Menu: 
+
+I learn CSS by designing a menu page for a cafe webpage: cafemenu
 
 
 
