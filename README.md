@@ -15,7 +15,7 @@ I built a cat photo app to learn the basics of HTML and CSS:
 
 I learn CSS by designing a menu page for a cafe webpage: 
 
-*cafemenu*
+*cafemenu* [Screen Capture](stocks/Cafe Menu.pdf)
 
 
 
